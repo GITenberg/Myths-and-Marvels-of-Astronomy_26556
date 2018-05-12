@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6917
     wikipedia: http://en.wikipedia.org/wiki/Richard_Anthony_Proctor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26556#Myths-and-Marvels-of-Astronomy
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2008-09-08'
 gutenberg_type: Text
